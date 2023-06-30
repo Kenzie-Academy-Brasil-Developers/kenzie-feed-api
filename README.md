@@ -144,14 +144,6 @@ Também é possível deletar um post, utilizando este endpoint:
 Não é necessário um corpo da requisição.
 ```
 
-Também é possível deletar um post, utilizando este endpoint:
-
-`DELETE /posts/:id`
-
-```
-Não é necessário um corpo da requisição.
-```
-
 Like em um post:
 
 `POST /likes`
