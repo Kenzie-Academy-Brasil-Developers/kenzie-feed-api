@@ -46,6 +46,7 @@ Também é possível acessar um produto específico passando o id para rota:
   "owner": "Roberto Silva",
   "userId": 1,
   "id": 2,
+  "image": "https://res.cloudinary.com/dsbkp5841/image/upload/v1688391686/Rectangle_4_lvbqtd.jpg",
   "likes": []
 }
 ```
